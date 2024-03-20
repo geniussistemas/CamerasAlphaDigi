@@ -1,2 +1,0 @@
-O arquivo config.json e servicoOCR.exe devem ficar juntos dentro da pasta C:\WEBSERVICEOCR.
-dentro do arquivo config.json está a configuração da porta do servidor
